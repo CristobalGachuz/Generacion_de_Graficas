@@ -1,3 +1,5 @@
+## Ejemplo Histograma
+
 import matplotlib.pyplot as plt
 
 # Datos de ejemplo
